@@ -29,9 +29,7 @@
 
 ```yaml
 sistema:
-  nome: "Seu Nome Aqui"
-  codinome: "@seu-usuario"
-  localizacao: "Terra, Setor 7G"
+  nome: Augusto
   ocupacao: "Full Stack Developer"
   interface: "Neural / Cyberpunk / JARVIS-inspired"
 
