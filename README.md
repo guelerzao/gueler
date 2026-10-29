@@ -1,231 +1,204 @@
-<div align="center">
 
-<!-- ============ BANNER PRINCIPAL - SYSTEM BOOT EFFECT ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Initializing%20Developer%20Profile...&descAlignY=58&descAlign=50" width="100%"/>
-
-<br/>
-
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+mainframe...+%5BOK%5D;%3E+Loading+profile%3A+SEU_NOME;%3E+Access+Level%3A+FULL+STACK+DEVELOPER;%3E+Status%3A+ONLINE+%7C+READY+TO+DEPLOY" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&label=SCANS%20DETECTED&color=00fff2&style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=for-the-badge&logo=statuspage&logoColor=white)
-![License](https://img.shields.io/badge/LICENSE-MIT-ff00ea?style=for-the-badge&logo=open-source-initiative&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ============ DIVIDER ============ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` SOBRE_MIM.exe
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="tech illustration" />
-
-```yaml
-sistema:
-  nome: Augusto
-  ocupacao: "Full Stack Developer"
-  interface: "Neural / Cyberpunk / JARVIS-inspired"
-
-diretivas:
-  - "Construir sistemas escaláveis e elegantes."
-  - "Transformar café em código funcional."
-  - "Aprender continuamente novas tecnologias."
-  - "Contribuir para o open source."
-
-modo_atual: "[ FOCO TOTAL ]"
-```
-
-<br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` TECH_STACK.sys
-
-<div align="center">
-
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,go,rust,php&theme=dark" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind,html,css,svelte&theme=dark" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mongodb,redis,mysql&theme=dark" />
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,linux&theme=dark" />
-
-</div>
-
-<br/>
-
-## `>_` FERRAMENTAS.config
-
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00fff2)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff00ea)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00ff9f)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00fff2)
-![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ff00ea)
-![Vim](https://img.shields.io/badge/Vim-0d1117?style=for-the-badge&logo=vim&logoColor=00ff9f)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff2)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` PROJETOS_EM_DESTAQUE.db
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-um">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-um&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00ea" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-dois">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-dois&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00ea" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-tres">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-tres&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00ea" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-quatro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-quatro&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=ff00ea" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-> 💡 Substitua `projeto-um`, `projeto-dois`, etc. pelos nomes reais dos seus repositórios.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` OBJETIVOS_ATUAIS.log
-
-```bash
-seu-usuario@github:~$ cat objetivos_2026.log
-
-[✔] Dominar arquitetura de microsserviços
-[✔] Contribuir para 5+ projetos open source
-[▓▓▓▓▓▓▓▓░░] 80% -- Aprofundar em Cloud (AWS/GCP)
-[▓▓▓▓▓░░░░░] 50% -- Estudar sistemas distribuídos
-[▓▓░░░░░░░░] 20% -- Explorar IA generativa aplicada
-[ ] Publicar pacote npm/PyPI próprio
-[ ] Falar em uma conferência tech
-
-seu-usuario@github:~$ _
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` ESTATISTICAS.core
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00ea&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark&hide_border=true&background=0D1117&stroke=00fff2&ring=ff00ea&fire=00ff9f&currStreakLabel=00fff2"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&hide_border=true&bg_color=0D1117&color=00fff2&line=ff00ea&point=00ff9f" width="100%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` TROFEUS.achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` CONTRIBUTION_MATRIX.snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-<!--END_SECTION:snake-->
-
-</div>
-
-> ⚙️ Para ativar a animação da cobrinha, configure a **GitHub Action** [`platane/snk`](https://github.com/Platane/snk) no seu repositório de perfil (`seu-usuario/seu-usuario`). Veja o passo a passo no final deste arquivo.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## `>_` CANAIS_DE_COMUNICACAO.net
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff2" />
-</a>
-<a href="https://twitter.com/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ff00ea" />
-</a>
-<a href="https://instagram.com/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff9f" />
-</a>
-<a href="mailto:seuemail@dominio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff2" />
-</a>
-<a href="https://discord.com/users/seu-id" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ff00ea" />
-</a>
-<a href="https://seu-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9f" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-### `>_` "A tecnologia mais avançada é indistinguível de magia — eu apenas escrevo o código."
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=Powered+by+caf%C3%A9+%E2%98%95+e+dark+mode+%F0%9F%8C%99;Compilado+com+sucesso+%E2%9C%94%EF%B8%8F+0+erros%2C+0+warnings" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
-
-<sub>© 2026 seu-usuario — System shutting down... <b>[ SESSION SAVED ]</b></sub>
-
-</div>
+<!-- BANNER DO TOPO -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=200&section=header&text=Seu%20Nome%20Aqui&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Front-end%20%7C%20React%20%7C%20JavaScript&descSize=18&descAlignY=58"
+    alt="Banner do perfil"
+    width="100%"
+  />
+</p>
+
+<!-- FRASE DE IMPACTO -->
+<h3 align="center">
+  Transformo ideias em interfaces rápidas, acessíveis e intuitivas.
+</h3>
+
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, boas experiências de usuário
+  e soluções que resolvem problemas reais.
+</p>
+
+<!-- BADGES DE CONTATO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://seu-portfolio.com">
+    <img
+      src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfólio"
+    />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Sou **Seu Nome Aqui**, desenvolvedor com foco em **Front-end, React e JavaScript**.
+
+- 🎯 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web.
+- 📚 Estudo boas práticas, código limpo, acessibilidade e arquitetura de aplicações.
+- 💡 Gosto de transformar ideias em produtos digitais funcionais e intuitivos.
+- 🚀 Busco oportunidades para evoluir profissionalmente, colaborar com equipes e desenvolver projetos relevantes.
+
+> Meu objetivo é unir tecnologia, criatividade e experiência do usuário para construir soluções úteis e de qualidade.
+
+---
+
+## 🤝 Aberto a oportunidades
+
+| Categoria | Detalhes |
+|---|---|
+| 🎯 **Busco** | Vaga júnior, estágio e projetos freelance. |
+| 🛠️ **Posso ajudar com** | Landing pages, dashboards, SPAs e integração com APIs REST. |
+| 📬 **Contato** | [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/) · [Email](mailto:seuemail@exemplo.com) |
+| 🌎 **Modalidade** | Remoto, híbrido ou presencial, conforme a oportunidade. |
+
+---
+
+## 🧰 Tecnologias e ferramentas
+
+### 💻 Hard skills
+
+<!-- Substitua, adicione ou remova os badges conforme suas habilidades reais. -->
+
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React"
+  />
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</p>
+
+### 📖 Estudando agora
+
+<!-- Substitua pelas tecnologias que você está aprendendo atualmente. -->
+
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"
+    alt="Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white"
+    alt="Testing Library"
+  />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que entrega | Stack | Links |
+|---|---|---|---|
+| **Projeto 1** | Descreva o problema resolvido e o principal benefício da aplicação. | React, JavaScript, CSS | [Demo](https://exemplo.com) · [Código](https://github.com/SEU-USUARIO/REPO-1) |
+| **Projeto 2** | Descreva as funcionalidades mais importantes e o diferencial do projeto. | HTML, CSS, JavaScript | [Demo](https://exemplo.com) · [Código](https://github.com/SEU-USUARIO/REPO-2) |
+
+<details>
+  <summary><strong>🎁 Projetos secundários e experimentos</strong></summary>
+
+  <br />
+
+  | Projeto | Descrição | Tecnologias |
+  |---|---|---|
+  | Projeto bônus 1 | Pequena aplicação para praticar lógica de programação. | JavaScript, HTML, CSS |
+  | Projeto bônus 2 | Experimento com consumo de dados externos. | React, API REST |
+  | Projeto bônus 3 | Componentes reutilizáveis e responsividade. | React, CSS |
+
+  Confira mais projetos no meu [perfil do GitHub](https://github.com/SEU-USUARIO).
+
+</details>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Estatísticas gerais do GitHub"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Linguagens mais usadas"
+  />
+</p>
+
+---
+
+## 🎯 Foco atual
+
+- [x] Construção de projetos para o portfólio.
+- [ ] Aprofundar conhecimentos em TypeScript.
+- [ ] Aprimorar testes automatizados e qualidade de código.
+- [ ] Desenvolver aplicações completas com integração a APIs.
+
+---
+
+## 💬 Vamos conversar?
+
+Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
+
+Se você tem uma ideia interessante ou procura alguém para colaborar em um projeto, entre em contato!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+    <img
+      src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Vamos conversar pelo LinkedIn"
+    />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img
+      src="https://img.shields.io/badge/Entre%20em%20contato-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Entre em contato por email"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4169E1,100:6A5ACD&height=120&section=footer"
+    alt="Rodapé decorativo"
+    width="100%"
+  />
+</p>
