@@ -2,7 +2,7 @@
 <!-- BANNER DO TOPO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=200&section=header&text=Seu%20Nome%20Aqui&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Front-end%20%7C%20React%20%7C%20JavaScript&descSize=18&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=200&section=header&text=Augusto%20de%20Almeida%20Guelere&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Front-end%20%7C%20React%20%7C%20JavaScript&descSize=18&descAlignY=58"
     alt="Banner do perfil"
     width="100%"
   />
