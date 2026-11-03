@@ -33,12 +33,8 @@
     alt="Email"
   />
 </a>
-  />
-</a>
-    />
-  </a>
 
-  <a href="https://SEU_PORTFOLIO_AQUI">
+    <a href="https://SEU_PORTFOLIO_AQUI">
     <img
       src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfólio"
