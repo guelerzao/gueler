@@ -191,4 +191,6 @@ Se você tem uma ideia interessante ou procura alguém para colaborar em um proj
     alt="Rodapé decorativo"
     width="100%"
   />
-</p>
+</p> 
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/guelerzao/guelerzao/snake-output/snake.svg" alt="Snake animation" />
