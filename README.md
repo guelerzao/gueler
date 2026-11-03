@@ -27,10 +27,12 @@
     />
   </a>
 
-  <a href="mailto:augustodealmeidaguelere@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+<a href="mailto:augustodealmeidaguelere@gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
     />
   </a>
 
