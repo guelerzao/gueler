@@ -33,7 +33,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript**.
 
