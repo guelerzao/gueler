@@ -35,31 +35,31 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Seu Nome Aqui**, desenvolvedor com foco em **Front-end, React e JavaScript**.
+Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript**.
 
-- 🎯 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web.
-- 📚 Estudo boas práticas, código limpo, acessibilidade e arquitetura de aplicações.
-- 💡 Gosto de transformar ideias em produtos digitais funcionais e intuitivos.
-- 🚀 Busco oportunidades para evoluir profissionalmente, colaborar com equipes e desenvolver projetos relevantes.
+- Atualmente, estou aprimorando minhas habilidades em desenvolvimento web.
+- Estudo boas práticas, código limpo, acessibilidade e arquitetura de aplicações.
+- Gosto de transformar ideias em produtos digitais funcionais e intuitivos.
+- Busco oportunidades para evoluir profissionalmente, colaborar com equipes e desenvolver projetos relevantes.
 
 > Meu objetivo é unir tecnologia, criatividade e experiência do usuário para construir soluções úteis e de qualidade.
 
 ---
 
-## 🤝 Aberto a oportunidades
+## Aberto a oportunidades
 
 | Categoria | Detalhes |
 |---|---|
-| 🎯 **Busco** | Vaga júnior, estágio e projetos freelance. |
-| 🛠️ **Posso ajudar com** | Landing pages, dashboards, SPAs e integração com APIs REST. |
-| 📬 **Contato** | [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/) · [Email](mailto:seuemail@exemplo.com) |
-| 🌎 **Modalidade** | Remoto, híbrido ou presencial, conforme a oportunidade. |
+| **Busco** | Vaga júnior, estágio e projetos freelance. |
+| **Posso ajudar com** | Landing pages, dashboards, SPAs e integração com APIs REST. |
+| **Contato** | [LinkedIn](https://www.linkedin.com/in/augusto-guelere-/) · [Email](mailto:augustodealmeidaguelere@gmail.com) |
+| **Modalidade** | Remoto, híbrido ou presencial, conforme a oportunidade. |
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
-### 💻 Hard skills
+### Hard skills
 
 <!-- Substitua, adicione ou remova os badges conforme suas habilidades reais. -->
 
