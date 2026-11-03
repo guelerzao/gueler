@@ -20,22 +20,27 @@
 
 <!-- BADGES DE CONTATO -->
 <p align="center">
-  <a href="www.linkedin.com/in/augusto-guelere-" target="_blank">
+  <a href="https://www.linkedin.com/in/augusto-guelere-/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:augustodealmeidaguelere.com">
+
+  <a href="mailto:augustodealmeidaguelere@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
-  <a href="https://seu-portfolio.com">
+
+  <a href="https://SEU_PORTFOLIO_AQUI">
     <img
       src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfólio"
+    />
+  </a>
+</p>
     />
   </a>
 </p>
