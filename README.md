@@ -90,9 +90,8 @@ Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript
   />
 </p>
 
-### 📖 Estudando agora
+### Estudando agora
 
-<!-- Substitua pelas tecnologias que você está aprendendo atualmente. -->
 
 <p align="left">
   <img
@@ -115,7 +114,7 @@ Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que entrega | Stack | Links |
 |---|---|---|---|
@@ -123,7 +122,7 @@ Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript
 | **Projeto 2** | Descreva as funcionalidades mais importantes e o diferencial do projeto. | HTML, CSS, JavaScript | [Demo](https://exemplo.com) · [Código](https://github.com/SEU-USUARIO/REPO-2) |
 
 <details>
-  <summary><strong>🎁 Projetos secundários e experimentos</strong></summary>
+  <summary><strong> Projetos secundários e experimentos</strong></summary>
 
   <br />
 
@@ -139,7 +138,7 @@ Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img
@@ -156,7 +155,7 @@ Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript
 
 ---
 
-## 🎯 Foco atual
+## Foco atual
 
 - [x] Construção de projetos para o portfólio.
 - [ ] Aprofundar conhecimentos em TypeScript.
@@ -165,7 +164,7 @@ Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript
 
 ---
 
-## 💬 Vamos conversar?
+## Vamos conversar?
 
 Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
 
