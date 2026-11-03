@@ -27,20 +27,18 @@
     />
   </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=augustodealmeidaguelere@gmail.com" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=augustodealmeidaguelere@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
-    <a href="https://SEU_PORTFOLIO_AQUI">
+  <a href="https://SEU_PORTFOLIO_AQUI" target="_blank">
     <img
       src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfólio"
-    />
-  </a>
-</p>
     />
   </a>
 </p>
