@@ -143,12 +143,12 @@ Olá! Sou **Augusto**, desenvolvedor com foco em **Front-end, React e JavaScript
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=guelerzao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="Estatísticas gerais do GitHub"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guelerzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Linguagens mais usadas"
   />
 </p>
